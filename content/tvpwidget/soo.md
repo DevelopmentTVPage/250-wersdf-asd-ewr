@@ -9,6 +9,6 @@
     "type": "solo",
     "title": "soo",
     "name": "soo",
-    "channelId": "65648625",
+    "channelId": "87555862",
     "layout": "bootstrap"
 }
